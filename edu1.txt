@@ -1,0 +1,26 @@
+JSON
+PostGre
+Ansible
+Logstash, Elk
+Kibana
+Kubernetes
+Apache Kafka
+Apache Spark
+Linux
+Apache Hadoop
+JS
+PL-SQL
+GitHub
+AWS
+Python
+HDFS
+HBASE
+syslog
+snmp
+redis
+Table partition 
+
+
+
+
+
