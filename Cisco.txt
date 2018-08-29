@@ -1,0 +1,111 @@
+LGA to DFW $577
+LGA to St.louis 624$
+LGA to Kansas Intl $483
+Newark to DFW $625
+Newark to St.louis 629$
+Newark to Kansas 625$
+
+
+
+
+
+I'm in Madison Wisonsin
+Currently in this project, I'm primarily a python developer working on bunch of python stuff, for python rest 
+services using Django, Python data Analytics, connecting to DB, pulling data, generating reports, doing some Python
+ETL stuff, done a lot of AWS stuff , interacted with AWS cloud computing, I used AWS rest api, rds. These are the 
+things which I'm currently doing in my project. We slice and bice the data, We have almost 200 reports,  
+
+Have your loaded Json into Post Gre
+We have bunch of JSON docs, We have unstructured data like sometimes we have the feed, somtimes we don't have the 
+feed, We use JSON object, there are couple of things we do on Post Gre side, Arrays OP JSON, to JSON kind of functions
+that we call and then we store it up. When we are querying, with key value pairs, I used JSON with Post Gre, I used
+JSON mostly with Cassandra and MongoDB, MongoDB is perfect for storing JSON Objects. 
+
+Ansible, I have used ansible push model, I have worked with playbooks, YAML files, declaring the host. 
+
+Logstash, ELK. we used elk stack for couple of things, we have log files and we wanted to get some insight into 
+these files, we have to check how many errors are happening, like which of the requests more errors are happening
+what is the time taken on an average for each request type. We have different log files, we use Elk stack to feed
+these files and then use elastic search to do some computing on these files. We also used kibana kind of tools to generate 
+some dashboard kind of stuff to generate some graphs. 
+
+Elk config
+I worked feeding data into logstash, writing queries. 
+
+Configuring the logstash. 
+
+We can create stashing mechanism, we can say here is my file, we can say type of the file, I can give it a path. 
+Then i can give it an output host, like which host you want to store, here i write config files, YAML files, 
+indicating here is my log file. 
+
+How did i connect kibana to elastic search
+
+Kibana 
+It's a visualization tool, we have bunch of dash boards, dashboards are basically used to produce some graphs
+pycharts
+
+Kubernetes
+
+We wanted to move to AWS cloud Initially, we have set up an internal cluster, we used kubernetes to manage our 
+internal cluster. once we are comfortable with the kubernetes, we wanted to move to the cloud side. 
+
+we can call kubernetes from rest API's, we used mainly rest service framework, we have python scripts that can 
+kick-off and create a node, based on some external parameters If i'm getting too many requests, my SLA might be
+going down. In those cases i can create a new one, but we have a limit, we are kind of limited in resources. 
+
+How do you declare an application in Kubernetes
+We can have certain environment variables , we can have network quality, we can have application deployed also
+I have a YAML file which bascially decsribe the API version, what is the replica and how many chords. I'd use a cube control command
+
+Apache Kafka, We used kafka in replication mechanism, kind of a data base instinct. Anytime we need data from high performance servers. so we'd not go to
+data base, we'd have everything on the cube, we'd push the data on the queue which is more faster in comparing with locating the the data from the db. 
+It would take milli seconds. So we went with kafka here, it's a caching recovery mechanism. 
+
+We've have publisher, we used python. 
+
+Apache spark streaming
+I had a project. 
+
+About linux, Unix 
+
+Oracle Vmware. 
+
+Comfortable with Ansible. 
+
+Openstack 
+
+Apache Hadoop
+
+javascript, About java, Eclipse, 
+
+regit 
+
+We are a cisco lan service, We have to customize our products, collection of libraries. Ansible for packaging. The solution impact. Kafka, Apache spark. 
+
+file partitioning pl-sql, pg-sql, 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
